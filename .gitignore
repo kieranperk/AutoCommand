@@ -5,6 +5,9 @@
 *.ipr
 *.iws
 
+# Branding
+.branding/
+
 # IntelliJ
 out/
 

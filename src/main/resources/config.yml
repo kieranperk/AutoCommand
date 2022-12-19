@@ -1,11 +1,16 @@
 ####################################################
 #               AutoCommand Config                 #
 ####################################################
+# https://github.com/kieranperk/AutoCommand/wiki/Configuration
 
 startup:
   enabled: true
-  wait-length: 10
-  between-length: 5
+  players-needed: 0
+  wait-length: 5
+  command-interval: 2
   commands:
-    - 'say <MountainT144> Hey, thanks for using my plugin!'
-    - 'say Commands can wait between sending!'
+    - "say [AutoCommand] Thanks for using me!"
+    - "say [AutoCommand] You can set a custom interval between sending commands."
+    - "say [AutoCommand] And you can add an UNLIMITED AMOUNT OF COMMANDS!"
+    - ""
+    - "say [AutoCommand] You can also send blank commands which don't execute anything."
