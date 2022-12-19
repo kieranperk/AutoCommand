@@ -1,0 +1,6 @@
+name: AutoCommand
+version: '1.0.0'
+main: com.mountaint144.autocommand.AutoCommand
+api-version: 1.19
+authors: [ Mountaint144 ]
+description: 'A plugin that executes commands when the server starts!'

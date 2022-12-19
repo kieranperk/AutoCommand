@@ -1,0 +1,11 @@
+####################################################
+#               AutoCommand Config                 #
+####################################################
+
+startup:
+  enabled: true
+  wait-length: 10
+  between-length: 5
+  commands:
+    - 'say <MountainT144> Hey, thanks for using my plugin!'
+    - 'say Commands can wait between sending!'
